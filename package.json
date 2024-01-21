@@ -1,0 +1,20 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "A simple express server project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Tomi Rantakaulio",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
